@@ -1,1 +1,1 @@
-# E-commerce-java-angular
+# E-commerce-java
